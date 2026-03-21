@@ -98,8 +98,7 @@
 
 📧 Email: ntloc4405@gmail.com  
 📱 Phone: 0941267326  
-🌐 Facebook: https://www.facebook.com/thanh.loc.511731/ 
-
+🌐 Facebook: [Nguyen Thanh Loc](https://www.facebook.com/thanh.loc.511731/)
 </p>
 
 ## 🐍 Contribution Snake
