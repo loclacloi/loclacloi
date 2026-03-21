@@ -58,7 +58,7 @@
 - Developed key features for user-facing system  
 - Integrated APIs and contributed to backend  
 
-🔗 https://github.com/nguyenvanthiendev/Deho  
+🔗 https://github.com/loclacloi/DEHO
 
 ---
 
