@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Loc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Angular+%7C+Node.js;Building+clean+UI+%26+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+clean+UI+%26+systems" />
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Frontend Developer with real-world full-stack experience  
+- 💻 Front-end Developer with real-world full-stack experience  
 - ⚡ Strong in building responsive UI & API integration  
 - 🤝 Core developer in team projects (3 members)  
 - 🧠 Understand backend flow, auth, and data handling  
-- 🎯 Goal: Become a high-level Fullstack Engineer  
+- 🎯 Goal: Become a high-level full-stack Engineer  
 
 ---
 
@@ -42,13 +42,13 @@
 ### 🧠 PNJ Admin System
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="85%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" />
 </div>
 
 <p align="center">
 💡 Core developer in a team of 3 <br/>
-⚙️ Contributed ~30% frontend & backend <br/>
-🚀 Built UI, integrated APIs, supported backend logic
+⚙️ Contributed ~30% front-end & bac-kend <br/>
+🚀 Built UI, integrated APIs, supported bac-kend logic
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ### 🛋 DEHO E-commerce
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="85%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" />
 </div>
 
 <p align="center">
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-🔗 <a href="https://github.com/nguyenvanthienDev/Deho">View Project</a>
+🔗 <a href="https://github.com/loclacloi/DEHO">View Project</a>
 </p>
 
 ---
@@ -105,8 +105,8 @@
 ## 📬 Contact Me
 
 <p align="center">
-  📧 Email: ntloc4405@gmail.com  
-  📱 Phone: 0941267326  
+  📧 Email: ntloc4405@gmail.com  <br>
+  📱 Phone: 0941267326   <br>
   🌐 Facebook: <a href="https://www.facebook.com/thanh.loc.511731/">Nguyen Thanh Loc</a>
 </p>
 
