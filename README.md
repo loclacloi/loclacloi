@@ -37,45 +37,39 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🧠 PNJ Admin System
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-1d0a0f07-4e38-4e55-bb2d-6fa5a43c50f4.gif" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/216649436-1d0a0f07-4e38-4e55-bb2d-6fa5a43c50f4.gif" width="90%" />
+
+</div>
 
 - Core developer in a team of 3  
-- Worked on both frontend & backend  
-- Built UI, integrated APIs, contributed to backend logic  
+- Contributed ~30% to both frontend & backend  
+- Built UI, integrated APIs, supported backend logic  
 
 🔗 https://github.com/loclacloi/PNJ-Admin-System  
 
 ---
 
+<div align="center">
+
 ### 🛋 DEHO E-commerce
 
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/216649441-9b08b0d3-83c7-4c91-8cb1-d9fc7f0ec5d5.gif" width="100%" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/216649441-9b08b0d3-83c7-4c91-8cb1-d9fc7f0ec5d5.gif" width="90%" />
+
+</div>
 
 - Developed key features for user-facing system  
-- Integrated APIs and contributed to backend  
+- Focused on UI/UX & API integration  
+- Contributed to backend development  
 
-🔗 https://github.com/loclacloi/DEHO
-
----
-
-### 🎸 Music Website
-
-<p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
-
-- Built UI for musical instrument store  
-- Focused on user experience & UI interaction  
-
-🔗 https://github.com/loclacloi/Web-b-n-nh-c-c-
+🔗 https://github.com/nguyenvanthienDev/Deho  
 
 ---
+
+
 
 ## 📊 GitHub Analytics
 
