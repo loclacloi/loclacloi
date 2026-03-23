@@ -6,9 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Front-end-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Angular-Developer-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/NodeJS-DD0031?style=for-the-badge&logo=angular"/>
+  <img src="https://img.shields.io/badge/MongoDB-DD0031?style=for-the-badge&logo=angular"/>
+
+
 </p>
 
 ---
