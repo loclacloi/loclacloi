@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="200" height="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="200" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Front-end Developer with real-world full-stack experience  
 - ⚡ Strong in building responsive UI & API integration  
@@ -42,13 +42,13 @@
 ### 🧠 PNJ Admin System
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%" />
 </div>
 
 <p align="center">
 💡 Core developer in a team of 3 <br/>
 ⚙️ Contributed ~30% front-end & bac-kend <br/>
-🚀 Built UI, integrated APIs, supported bac-kend logic
+🚀 Built UI, integrated APIs, supported back-end logic
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ### 🛋 DEHO E-commerce
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%" />
 </div>
 
 <p align="center">
