@@ -41,15 +41,21 @@
 
 ### 🧠 PNJ Admin System
 
-<img src="https://user-images.githubusercontent.com/74038190/216649436-1d0a0f07-4e38-4e55-bb2d-6fa5a43c50f4.gif" width="90%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="85%" />
 
 </div>
 
-- Core developer in a team of 3  
-- Contributed ~30% to both frontend & backend  
-- Built UI, integrated APIs, supported backend logic  
+<div align="center">
 
-🔗 https://github.com/loclacloi/PNJ-Admin-System  
+<p>
+💡 Core developer in a team of 3 <br/>
+⚙️ Contributed ~30% frontend & backend <br/>
+🚀 Built UI, integrated APIs, supported backend logic
+</p>
+
+🔗 <a href="https://github.com/loclacloi/PNJ-Admin-System">View Project</a>
+
+</div>
 
 ---
 
@@ -57,15 +63,21 @@
 
 ### 🛋 DEHO E-commerce
 
-<img src="https://user-images.githubusercontent.com/74038190/216649441-9b08b0d3-83c7-4c91-8cb1-d9fc7f0ec5d5.gif" width="90%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="85%" />
 
 </div>
 
-- Developed key features for user-facing system  
-- Focused on UI/UX & API integration  
-- Contributed to backend development  
+<div align="center">
 
-🔗 https://github.com/nguyenvanthienDev/Deho  
+<p>
+🛒 Developed key user features <br/>
+🎨 Focused on UI/UX & interaction <br/>
+🔌 Integrated APIs & supported backend
+</p>
+
+🔗 <a href="https://github.com/nguyenvanthienDev/Deho">View Project</a>
+
+</div>
 
 ---
 
