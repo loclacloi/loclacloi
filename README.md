@@ -83,13 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loclacloi&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loclacloi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
